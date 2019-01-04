@@ -1,8 +1,8 @@
-##VGM Utils
+## VGM Utils
 A series of python scripts intended to simplify working with vgm and vgz files.
 Tools should be cross-platform and relatively user-friendly. Should include libraries and also command line interfaces
 
-####Road Map and Ideas
+#### Road Map and Ideas
  - [x] Tool for conversion between `.vgm.gz` to `.vgz` and vice versa. see: `vgmgz2vgz.py` & `vgz2vgmgz.py`
    - [ ] Add `argparse` argument for directory to change.
    - [ ] Add `argparse` argument for preview change.
